@@ -1,0 +1,7 @@
+Running: xsim.dir/tester_sprites_display_behav/xsimk -simmode gui -wdb tester_sprites_display_behav.wdb -simrunnum 0 -socket 45777
+Design successfully loaded
+Design Loading Memory Usage: 39272 KB (Peak: 39272 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 125656 KB (Peak: 178540 KB)
+Simulation CPU Usage: 3130 ms

@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/kalebw02/VivadoLabs/Lab7/Lab7.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sim_1/new/datapath_test.sv,1740337574,systemVerilog,,,,datapath_test;selfcheck,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/ALU.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/adder.sv,,ALU,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/adder.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/addsub.sv,,adder,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/addsub.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/comparator.sv,,addsub,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/comparator.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/new/datapath.sv,,comparator,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/fulladder.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/logical.sv,,fulladder,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/logical.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/new/register_file.sv,,logical,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/shifter.sv,1737678929,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sim_1/new/datapath_test.sv,,shifter,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/new/datapath.sv,1740337550,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/fulladder.sv,,datapath,,uvm,,,,,,
+/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/new/register_file.sv,1740337380,systemVerilog,,/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sources_1/imports/new/shifter.sv,,register_file,,uvm,,,,,,

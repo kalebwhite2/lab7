@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$finish called at time : 1680 us : File "/home/kalebw02/VivadoLabs/Lab7/Lab7.srcs/sim_2/new/tester_sprites_display.sv" Line 150

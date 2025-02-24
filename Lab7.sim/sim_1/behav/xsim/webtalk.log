@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Feb 23 14:13:58 2025
+# Process ID: 33686
+# Current directory: /home/kalebw02/VivadoLabs/Lab7/Lab7.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/kalebw02/VivadoLabs/Lab7/Lab7.sim/sim_1/behav/xsim/xsim.dir/datapath_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/kalebw02/VivadoLabs/Lab7/Lab7.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/kalebw02/VivadoLabs/Lab7/Lab7.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/kalebw02/VivadoLabs/Lab7/Lab7.sim/sim_1/behav/xsim/xsim.dir/datapath_test_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Sun Feb 23 14:14:00 2025...

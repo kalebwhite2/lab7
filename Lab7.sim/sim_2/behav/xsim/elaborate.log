@@ -1,0 +1,20 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 72e03e944737448da79b367beb7622b7 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tester_sprites_display_behav xil_defaultlib.tester_sprites_display xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.rom_module(Nloc=1200,Dbits=6,ini...
+Compiling module xil_defaultlib.xycounter(width=800,height=525)
+Compiling module xil_defaultlib.vgatimer
+Compiling module xil_defaultlib.rom_module(Nloc=16384,Dbits=12,i...
+Compiling module xil_defaultlib.vgadisplaydriver(Nchars=64,bmem_...
+Compiling module xil_defaultlib.top(Nchars=64)
+Compiling module xil_defaultlib.selfcheck(Nchars=64)
+Compiling module xil_defaultlib.tester_sprites_display
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tester_sprites_display_behav
